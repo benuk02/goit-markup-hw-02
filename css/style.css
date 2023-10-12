@@ -1,0 +1,32 @@
+ /**/
+.list {
+    list-style-type: none;
+}
+button {
+    cursor: pointer;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+}
+.underline {
+    text-decoration: none;
+}
+
+/* Header */
+.menu-link-special:hover,
+.menu-link-special:active {
+    color: #4D5AE5;
+}
+.menu-link:hover {
+    color: #4D5AE5;
+}
+
+.contact-menu-link:hover{
+    color: #404BBF;
+}
+.contact-menu-link {
+    color: #434455;
+    ;
+}
+
