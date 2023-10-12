@@ -41,7 +41,7 @@ body {
   font-weight: 500;
   text-align: left;
 }
-.menu-link-specially {
+.menu-link-special {
   color: #2e2f42;
 }
 .menu-link-special:hover,
@@ -49,9 +49,7 @@ body {
 .menu-link-special {
   color: #404bbf;
 }
-.menu-link:hover {
-  color: #4d5ae5;
-}
+
 .contact-menu {
   font-family: 'Roboto', sans-serif;
   text-align: left;
