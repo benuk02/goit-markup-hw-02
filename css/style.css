@@ -39,10 +39,6 @@ body {
 .menu-list {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   text-align: left;
 }
 .menu-link-special {
@@ -56,23 +52,18 @@ body {
   color: #4d5ae5;
 }
 .contact-menu {
-  font-family: Roboto;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.02em;
+  font-family: 'Roboto', sans-serif;;
   text-align: left;
 }
 .contact-menu-link {
-  color: #434455;
   font-style: normal;
+  color: #434455;
+
 }
 .contact-menu-link:hover {
   color: #404bbf;
 }
-.contact-menu-link {
-  color: #434455;
-}
+
 /* Nav */
 
 /* Title and button */
@@ -81,7 +72,6 @@ body {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
 }
@@ -89,9 +79,6 @@ body {
 .hero-button {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   background-color: #4d5ae5;
   color: #ffffff;
 }
@@ -107,19 +94,13 @@ body {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.02em;
   text-align: left;
   color: #2e2f42;
 }
 
 .goals-text {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   text-align: left;
-  color: #434455;
 }
 
 .staff-title {
@@ -137,17 +118,13 @@ body {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
 }
 
 .staff-occupation {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.02em;
   text-align: center;
 }
 /* Main section */
@@ -155,10 +132,7 @@ body {
 /* Footer */
 .text-footer {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.02em;
   text-align: left;
   color: #f4f4fd;
 }
