@@ -45,7 +45,8 @@ body {
   color: #2e2f42;
 }
 .menu-link-special:hover,
-.menu-link-special:active {
+.menu-link-special:active,
+.menu-link-special {
   color: #404bbf;
 }
 .menu-link:hover {
@@ -102,7 +103,7 @@ body {
 
 /* Main section */
 .goals-section {
-  background-color: #f4f4fd;
+  color: #2e2f42;
 }
 .goals-title {
   font-family: 'Roboto', sans-serif;
@@ -114,10 +115,6 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.goals-menu {
-  background-color: #ffffff;
-}
-
 .goals-text {
   font-family: 'Roboto', sans-serif;
   text-align: left;
@@ -181,6 +178,10 @@ body {
   font-family: 'Roboto', sans-serif;
   letter-spacing: 0.02em;
   text-align: left;
+  color: #434455;
+}
+.portfolio-menu-item {
+  color: #FFFFFF;
 }
 
 /* Main section */
