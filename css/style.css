@@ -71,7 +71,7 @@ body {
 
 /* Title and button */
 .hero {
-  color: #2e2f42;
+  background-color: #2e2f42;
 }
 .hero-title {
   font-family: 'Roboto', sans-serif;
@@ -115,12 +115,16 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.staff-menu {
+  background-color: #ffffff;
+}
 .goals-text {
   font-family: 'Roboto', sans-serif;
   text-align: left;
+  color: #434455;
 }
 .team-section {
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 .staff-title {
   font-family: 'Roboto', sans-serif;
@@ -176,14 +180,15 @@ body {
   font-family: 'Roboto', sans-serif;
   letter-spacing: 0.02em;
   text-align: left;
-  color: #FFFFFF
+  color: #434455;
 }
 .portfolio-menu-item {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .portfolio-menu-item {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
+
 
 /* Main section */
 
