@@ -41,7 +41,7 @@ body {
   font-weight: 500;
   text-align: left;
 }
-.menu-link-special {
+.menu-link-specially {
   color: #2e2f42;
 }
 .menu-link-special:hover,
@@ -143,14 +143,12 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.staff-menu {
-  color: #FFFFFF;
-}
 
 .staff-occupation {
   font-family: 'Roboto', sans-serif;
   line-height: 1.5;
   text-align: center;
+  color: #434455;
 }
 /* 3rd section*/
 .portfolio-section {
@@ -178,10 +176,13 @@ body {
   font-family: 'Roboto', sans-serif;
   letter-spacing: 0.02em;
   text-align: left;
-  color: #434455;
+  color: #FFFFFF
 }
 .portfolio-menu-item {
   color: #FFFFFF;
+}
+.portfolio-menu-item {
+  background-color: #FFFFFF;
 }
 
 /* Main section */
