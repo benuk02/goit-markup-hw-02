@@ -69,6 +69,9 @@ body {
 /* Nav */
 
 /* Title and button */
+.hero {
+  color: #2e2f42;
+}
 .hero-title {
   font-family: 'Roboto', sans-serif;
   font-size: 56px;
@@ -143,6 +146,9 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+.staff-menu {
+  color: #FFFFFF;
+}
 
 .staff-occupation {
   font-family: 'Roboto', sans-serif;
@@ -200,6 +206,6 @@ body {
   color: #4d5ae5;
 }
 .footer-second-part {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 /* Footer */
