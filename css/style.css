@@ -1,32 +1,169 @@
- /**/
+/* Body */
 .list {
-    list-style-type: none;
+  list-style-type: none;
 }
 button {
-    cursor: pointer;
-}
-body {
-    font-family: 'Roboto', sans-serif;
-    color: #434455;
+  cursor: pointer;
 }
 .underline {
-    text-decoration: none;
+  text-decoration: none;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  font-weight: 400;
+  size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/* Body */
+
+/* Header and the title*/
+/* Logo */
+.first-part {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #4d5ae5;
+}
+.second-part {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #2e2f42;
 }
 
-/* Header */
+/* Nav */
+.menu-list {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.menu-link-special {
+  color: #2e2f42;
+}
 .menu-link-special:hover,
 .menu-link-special:active {
-    color: #4D5AE5;
+  color: #4d5ae5;
 }
 .menu-link:hover {
-    color: #4D5AE5;
+  color: #4d5ae5;
 }
-
-.contact-menu-link:hover{
-    color: #404BBF;
+.contact-menu {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: left;
 }
 .contact-menu-link {
-    color: #434455;
-    ;
+  color: #434455;
+  font-style: normal;
+}
+.contact-menu-link:hover {
+  color: #404bbf;
+}
+.contact-menu-link {
+  color: #434455;
+}
+/* Nav */
+
+/* Title and button */
+.hero-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #FFFFFF;
 }
 
+.hero-button {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  background-color: #4d5ae5;
+  color: #ffffff;
+}
+.hero-button:hover {
+  background-color: #404bbf;
+  color: #ffffff;
+}
+/* Title and button */
+
+/* Main section */
+.goals-title {
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: left;
+color: #2E2F42;
+}
+
+.goals-text {
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: left;
+color: #434455;
+}
+
+.staff-title {
+font-family: 'Roboto', sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2E2F42;
+}  
+
+.staff-name {
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2E2F42;
+}
+
+.staff-occupation {
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+}
+/* Main section */
+
+/* Footer */
+.text-footer {
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: left;
+color: #F4F4FD;
+}
+/* Footer */
