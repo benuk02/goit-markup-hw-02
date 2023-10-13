@@ -34,10 +34,10 @@ body {
 .second-part {
   color: #2e2f42;
 }
+/* Logo */
 
 /* Nav */
 .menu-list {
-  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   text-align: left;
   color: #2e2f42;
@@ -46,14 +46,8 @@ body {
   color: #2e2f42;
 }
 .menu-link-special:hover,
-.menu-link-special:active,
-.menu-link-special {
+.menu-link-special:focus {
   color: #404bbf;
-}
-
-.contact-menu {
-  font-family: 'Roboto', sans-serif;
-  text-align: left;
 }
 .contact-menu-link {
    color: #434455;
@@ -65,7 +59,6 @@ body {
 .contact-page {
   font-style: normal;
 }
-
 /* Nav */
 
 /* Title and button */
@@ -73,18 +66,15 @@ body {
   background-color: #2e2f42;
 }
 .hero-title {
-  font-family: 'Roboto', sans-serif;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #ffffff;
   background-color: #2e2f42;
 }
 
 .hero-button {
-  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -101,94 +91,82 @@ body {
 /* Title and button */
 
 /* Main section */
+
+/* Business' directions */
 .goals-section {
   color: #2e2f42;
 }
 .goals-title {
-  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   letter-spacing: 0.02em;
   font-weight: 500;
   line-height: 1.2;
-  text-align: left;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.goals-text {
+  color: #434455;
+}
+/* Business' directions */
+
+/* Staff */
+.team-section {
+  background-color: #f4f4fd;
+}
+.staff-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
 .staff-menu-item {
   background-color: #ffffff;
 }
-.goals-text {
-  font-family: 'Roboto', sans-serif;
-  text-align: left;
-  color: #434455;
-}
-.team-section {
-  background-color: #f4f4fd;
-}
-.staff-title {
-  font-family: 'Roboto', sans-serif;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  text-align: center;
-  color: #2e2f42;
-}
-
 .staff-name {
-  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   font-weight: 500;
   letter-spacing: 0.02em;
   line-height: 1.2;
-  text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
 }
-
 .staff-occupation {
   font-family: 'Roboto', sans-serif;
   line-height: 1.5;
-  text-align: center;
   color: #434455;
 }
-/* 3rd section*/
+/* Staff */
+
+/* Portfolio section */
 .portfolio-section {
   background-color: #ffffff;
 }
 .portfolio-title {
-  font-family: 'Roboto', sans-serif;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
+.portfolio-menu-item {
+  color: #ffffff;
+  background-color: #ffffff;
+}
 .portfolio-name {
-  font-family: 'Roboto', sans-serif;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: left;
   color: #2e2f42;
 }
-.portfolio-mathod {
-  font-family: 'Roboto', sans-serif;
+.portfolio-method {
   letter-spacing: 0.02em;
-  text-align: left;
   color: #434455;
 }
-.portfolio-menu-item {
-  color: #ffffff;
-}
-.portfolio-menu-item {
-  background-color: #ffffff;
-}
 
-
+/* Portfolio section */
 /* Main section */
 
 /* Footer */
@@ -196,9 +174,7 @@ body {
   background-color: #2e2f42;
 }
 .text-footer {
-  font-family: 'Roboto', sans-serif;
   line-height: 1.5;
-  text-align: left;
   color: #f4f4fd;
 }
 .footer-link {
@@ -207,7 +183,6 @@ body {
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-align: left;
   text-transform: uppercase;
   color: #4d5ae5;
 }
