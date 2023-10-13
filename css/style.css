@@ -50,7 +50,7 @@ body {
   color: #404bbf;
 }
 .contact-menu-link {
-   color: #434455;
+  color: #434455;
 }
 .contact-menu-link:hover,
 .contact-menu-link:focus {
@@ -70,6 +70,7 @@ body {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #ffffff;
   background-color: #2e2f42;
 }
@@ -119,6 +120,7 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
   color: #2e2f42;
 }
 .staff-menu-item {
@@ -148,6 +150,7 @@ body {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
 }
 .portfolio-menu-item {
