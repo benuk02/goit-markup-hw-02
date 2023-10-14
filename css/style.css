@@ -11,7 +11,6 @@ button {
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -57,9 +56,6 @@ body {
 .contact-menu-link:focus {
   color: #404bbf;
 }
-.contact-page {
-  font-style: normal;
-}
 /* Nav */
 
 /* Title and button */
@@ -68,7 +64,6 @@ body {
 }
 .hero-title {
   font-size: 56px;
-  font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
@@ -117,7 +112,6 @@ body {
 }
 .staff-title {
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -148,7 +142,6 @@ body {
 }
 .portfolio-title {
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
@@ -183,7 +176,6 @@ body {
 .footer-link {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
-  font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
